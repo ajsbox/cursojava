@@ -9,11 +9,13 @@ public class OperadoresDesplazamiento {
 		
 		System.out.println(desplazamiento);
 		
+		
 		// Desplazamiento a la derecha
 		                                    // 00101101
 		int desplazamientoDerecha = x >> 2; // 00001011
 		
 		System.out.println(desplazamientoDerecha);
+		
 		
 		// Operaciones OR --> | <-- El resultado es 0 cuando ambos operando son 0
 		int a = 45;                                    // 00101101
