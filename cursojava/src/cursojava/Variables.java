@@ -8,7 +8,8 @@ public class Variables {
 		int numeroInt = 23;
 		long numeroLong = 9876542L;
 		float numeroFloat = 987747474F;
-		double numeroDouble = 9876543123D;
+		double numeroDouble = 98765431235D;
+		double numeroDouble1 = 98.23D;
 		boolean datoBoleano = true;
 		String nombre = "Pedro";
 		char caracter = 't';
