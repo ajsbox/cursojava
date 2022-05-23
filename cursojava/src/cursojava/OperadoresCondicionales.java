@@ -17,6 +17,8 @@ public class OperadoresCondicionales {
 		
 		mayor = (a > b) ? a : b;
 		System.out.println("El numero mayor es: " + mayor);
+		
+		System.out.println("Numero Mayor: " + ((a > b) ? "i es mayor" : "j es mayor"));
 	}
 
 }
