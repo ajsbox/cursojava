@@ -19,10 +19,21 @@ public class OperadoresDesplazamiento {
 		int a = 45;                                    // 00101101
 		int b = 11;                                    // 00001011
 		int or = a | b;								   // 00101111
-		System.out.println("La operacion OR es" + or); 
+		System.out.println("La operacion OR es: " + or); 
 		
-		// Operacion AND
 		
+		// Operacion AND --> & <-- El resultado es 1 cuando ambos operandos son 1
+		                                    			// 00101101 <-- 45
+		                                    			// 00001011 <-- 11
+		int and = a & b;								// 00001001 <-- 9
+		System.out.println("La operacion AND es: " + and);
+		
+		
+		// Operacion XOR --> ^ <-- El resultado es 1 cuando ambos operandos son 1 o 1
+														   // 00101101 <-- 45
+														   // 00001011 <-- 11
+		int xor = a ^ b;								   // 00100110 <-- 38
+		System.out.println("La operacion XOR es: " + xor); 
 		
 		
 	}
