@@ -13,6 +13,7 @@ public class Variables {
 		char caracter = 't';
 
 		System.out.println(numeroByte);
+		System.out.println(datoBoleano);
 	}
 
 }
