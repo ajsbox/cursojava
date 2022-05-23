@@ -16,6 +16,7 @@ public class Variables {
 
 		System.out.println(numeroByte);
 		System.out.println(datoBoleano);
+		System.out.println(numeroDouble1);
 		
 	}
 

@@ -1,4 +1,4 @@
 
 1. Variables.java
-2. OperadoresIgualdad
-3. 
+2. OperadoresIgualdad.java
+3.  
