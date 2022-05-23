@@ -15,6 +15,10 @@ public class OperadoresIgualdad {
 		if(a != 10) {
 			System.out.println("La variable \"a\" es diferente de 10");
 		}
+		
+		if(a == 50) {
+			System.out.println("La variable \"a\" es igual a 50");
+		}
 	}
 
 }
