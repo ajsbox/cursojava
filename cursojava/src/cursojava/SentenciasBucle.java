@@ -12,7 +12,7 @@ public class SentenciasBucle {
 		}
 		
 		// do-while
-		int i = 1;    
+		int i = 0;    
 	    do{    
 	        System.out.println(i);    
 	    i++;    

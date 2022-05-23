@@ -3,4 +3,5 @@
 2. OperadoresIgualdad.java
 3. OperadoresCondicionales.java
 4. IncrementoDecremento.java
- 
+5. SentenciasDecision.java
+6. SentenciasBucle.java
