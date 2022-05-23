@@ -25,6 +25,7 @@ public class SentenciaRamificaciones {
 		      System.out.println(i);
 		}
 		
+		// foreach
 		for (String fruta : frutas) 
 		{ 
 		    System.out.println("Nombre de la fruta: " + fruta);
