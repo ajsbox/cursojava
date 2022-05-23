@@ -11,6 +11,10 @@ public class OperadoresIgualdad {
 		if(a < b) {
 			System.out.println("B es mayor");
 		}
+		
+		if(a != 10) {
+			System.out.println("La variable \"a\" es diferente de 10");
+		}
 	}
 
 }
