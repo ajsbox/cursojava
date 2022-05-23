@@ -12,10 +12,10 @@ public class SentenciasDecision {
 			System.out.println("El numero no es 10");
 		}
 		
-		// switch-case
 		int day = 5;
 		String dayString;
 		
+		// switch-case
 		switch (day) 
         {
             case 1:  dayString = "Lunes";
@@ -37,5 +37,4 @@ public class SentenciasDecision {
         }
         System.out.println(dayString);
 	}
-
 }
